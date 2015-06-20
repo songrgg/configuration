@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+l"], "command": "insert", "args": {"characters": "log_message('', __METHOD__.\"\")"} },
+    { "keys": ["ctrl+alt+d"], "command": "insert", "args": {"characters": "'BFC01.MARITAL_STS' => array(\n    '0' => '请选择',\n),"} }
+]

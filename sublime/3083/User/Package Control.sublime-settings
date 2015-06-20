@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"DashDoc",
+		"DocBlockr",
+		"Godef",
+		"GoSublime",
+		"Indent XML",
+		"InsertDate",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SVN",
+		"Theme - Brogrammer",
+		"Theme - Glacier",
+		"TrailingSpaces",
+		"UIkit autocomplete"
+	]
+}
